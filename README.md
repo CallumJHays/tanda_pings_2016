@@ -2,6 +2,8 @@
 
 A pure Elixir + OTP solution to the Tanda Challenge for summer 2016.
 
+* No dependencies!* - Wohoo!
+
 ## Installation
 
 ### Elixir + OTP
