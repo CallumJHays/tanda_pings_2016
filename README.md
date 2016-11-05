@@ -2,8 +2,6 @@
 
 A pure Elixir + OTP solution to the Tanda Challenge for summer 2016.
 
-You can check it hosted on a live server [HERE](http://54.206.64.114:3000)
-
 ## Installation
 
 ### Elixir + OTP
